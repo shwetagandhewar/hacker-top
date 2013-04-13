@@ -58,8 +58,10 @@ Usage: ./hacker_top.py [-i|--interval interval]
     Default: off. Use this if you know for sure that your
     terminal supports it, otherwise your terminal might turn into garbage.
 
-    -U or --url turns on printing of urls.
-    Default: off
+    -U or --url turns on printing of urls.
+
+    Default: off
+
 
     -n or --new follows only the newest hacker stories.
     Default: follow front page stories.
@@ -91,7 +93,7 @@ c - open the topmost URL's comments in the default webbrowser
 
 
 ------------------------------------------------------------------------------
-
+WCE
 
 Have fun using it!
 
