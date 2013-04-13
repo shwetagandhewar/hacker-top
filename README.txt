@@ -93,7 +93,7 @@ c - open the topmost URL's comments in the default webbrowser
 
 
 ------------------------------------------------------------------------------
-WCE
+WCE Hacker top
 
 Have fun using it!
 
